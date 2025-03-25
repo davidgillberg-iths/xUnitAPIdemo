@@ -1,0 +1,6 @@
+@xUnitAPIdemo_HostAddress = http://localhost:5115
+
+GET {{xUnitAPIdemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
